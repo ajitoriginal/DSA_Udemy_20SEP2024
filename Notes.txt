@@ -1,4 +1,7 @@
 Big O Notation
+-f(n) could be linear (f(n) = n)
+-f(n) could be quadratic (f(n) = n^2)
+-f(n) could be constant (f(n) = 1)
 
 Analyzing Performance of Arrays and Objects
 
