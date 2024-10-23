@@ -14,3 +14,7 @@ function quickSort(arr) {
 
 let arr = [-2, -6, 4, 2, 11, 1, 0]
 console.log(quickSort(arr))
+
+// Time Complexity
+// Worst Case - O(n^2)
+// Average Case - O(nlogn)
